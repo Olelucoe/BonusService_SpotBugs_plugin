@@ -1,0 +1,13 @@
+### Всякий мусор ###
+Thumbs.db
+.DS_Store*
+.gradle
+build/
+
+### Intelij IDEA ###
+target/
+out/
+.idea
+*.iws
+*.iml
+*.ipr
